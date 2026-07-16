@@ -1,4 +1,4 @@
-# 🎮 Stone Paper Scissors
+# 🎮 Stone Paper Scissors by adarshcsea
 
 A modern browser-based implementation of the classic **Stone Paper Scissors** game built using HTML, CSS, and JavaScript.
 
