@@ -14,6 +14,7 @@ Play against the computer with smooth animations, an interactive UI, and real-ti
 
 ## 📸 Preview
 
+<img width="1920" height="1080" alt="iioljo3bzmgehdccvqsj" src="https://github.com/user-attachments/assets/70bb73c8-65bf-43b5-9a73-3572b4654353" />
 
 
 ---
